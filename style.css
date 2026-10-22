@@ -1,11 +1,9 @@
 h1 {
     margin:auto;
-}
-body {
-    background-color:#d5dbe3;
+    text-align:center;
 }
 form {
     margin:auto;
     width: 300px;
-    background-color:#e6ecf5;
+    border: 2px solid grey;
 }
